@@ -96,7 +96,6 @@ const Coupon = () => {
             </fieldset>
             <button type="submit">Generate</button>
           </form>
-
           {coupon && (
             <code>
               {coupon}{" "}
